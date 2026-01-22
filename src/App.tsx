@@ -1,7 +1,7 @@
+import TimerPage from "./pages/timer"
+
 function App() {
-  return (
-    <></>
-  );
+  return <TimerPage />
 }
 
 export default App;
